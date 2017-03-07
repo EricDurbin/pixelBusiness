@@ -12,6 +12,7 @@
     <sprite>sprites\spr_invisVert</sprite>
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_playerstill</sprite>
+    <sprite>sprites\spr_rock</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_start</background>
@@ -30,6 +31,7 @@
     <object>objects\obj_player</object>
     <object>objects\obj_portal</object>
     <object>objects\obj_wall</object>
+    <object>objects\obj_rock</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_start</room>
